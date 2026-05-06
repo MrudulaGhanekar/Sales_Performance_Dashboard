@@ -37,7 +37,7 @@ This project is an interactive dashboard built using Power BI to analyze sales p
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](images/dashboard.png)
+Sales_Performance_Dashboard SS.png
 
 ---
 
@@ -50,8 +50,8 @@ This project is an interactive dashboard built using Power BI to analyze sales p
 ---
 
 ## 📂 Project Files
-- `dashboard.pbix` → Power BI file  
-- `dashboard.pdf` → Exported report  
+- `Sales_Performance_Dashboard.pbix` → Power BI file  
+- `Sales_Performance_Dashboard.pdf` → Exported report  
 
 ---
 
